@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Redsys is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://redsys.es/
+Redsys is a leading Spanish payment services provider with over 40 years of experience. It offers a comprehensive suite of acquiring, issuing, and interbank services, supporting merchants, financial institutions, and digital platforms. The company focuses on innovation, security, and high‑quality payment solutions across Spain and Latin America, serving a wide range of industries including retail, health, and e‑commerce.
+
+**Areas:** Company · Payments · Financial Services · Acquiring · Issuing
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://redsys.es/)
+- [Documentation](https://pagosonline.redsys.es/desarrolladores-inicio/)
+- [Getting started](https://pagosonline.redsys.es/desarrolladores-inicio/)
+- [API reference](https://pagosonline.redsys.es/desarrolladores-inicio/)
+- [Pricing](https://redsys.es/politica-corporativa)
+- [Support](https://redsys.es/contacto)
+- [Blog](https://redsys.es/blog)
+- [Terms of service](https://redsys.es/aviso-legal)
+- [Privacy policy](https://redsys.es/politica-de-privacidad)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/redsys/](https://apis.io/providers/redsys/).
